@@ -6,7 +6,7 @@
 
 ##Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
-![alt text](https://github.com/smucnyj13104/Amazon_Vine_Analysis/Results.png?raw=true)
+![alt text](https://github.com/smucnyj13104/Amazon_Vine_Analysis/blob/main/Results.png?raw=true)
 
 ###How many Vine reviews and non-Vine reviews were there?
 
